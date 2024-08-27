@@ -14,4 +14,5 @@ Focusing on:
 
 Note: The purpose of this project is not to showcase pixel-perfect design or advanced UI capabilities, but rather to demonstrate my approach in overall mobile engineering practices, focusing on the core structure of a simple project.
 My approach is not limited to this example, but rather adaptable and evolve based on the specific needs of each project.
-\*The design is not the primary focus, and I do not claim ownership of it.
+
+\* I do not claim ownership of the design.
